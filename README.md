@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Jeomon
+- 👋 Hi, I’m Jeomon George
 - 👀 I’m interested in hands-on coding and sailing
 - 🌱 I’m currently learning Data Science
