@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [CursorTouch](https://github.com/CursorTouch)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science** from **IIT Madras**
 
 - 📫 How to reach me **jeogeoalukka@gmail.com**
