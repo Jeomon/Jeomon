@@ -29,7 +29,6 @@ underneath them: a coding-agent CLI, a headless browser runtime, and protocol cl
 | [**MacOS-MCP**](https://github.com/CursorTouch/MacOS-MCP) | Lightweight MCP server for computer use in macOS | <img src="https://img.shields.io/github/stars/CursorTouch/MacOS-MCP?style=flat-square&logo=github&label=" alt="MacOS-MCP stars"> |
 | [**Operator-Use**](https://github.com/Jeomon/Operator-Use) | An agent that gets things done on your computer | <img src="https://img.shields.io/github/stars/Jeomon/Operator-Use?style=flat-square&logo=github&label=" alt="Operator-Use stars"> |
 | [**Terminal-Use**](https://github.com/Jeomon/Terminal-Use) | A standalone agent that plans and runs shell commands | <img src="https://img.shields.io/github/stars/Jeomon/Terminal-Use?style=flat-square&logo=github&label=" alt="Terminal-Use stars"> |
-| [**Tau-Coding-Agent**](https://github.com/Jeomon/Tau-Coding-Agent) | A self-extensible agent CLI with a terminal UI and plugin system | <img src="https://img.shields.io/github/stars/Jeomon/Tau-Coding-Agent?style=flat-square&logo=github&label=" alt="Tau-Coding-Agent stars"> |
 | [**MacOS-Use**](https://github.com/Jeomon/MacOS-Use) | An agent that interacts with macOS at the GUI level | <img src="https://img.shields.io/github/stars/Jeomon/MacOS-Use?style=flat-square&logo=github&label=" alt="MacOS-Use stars"> |
 
 <p align="center">
